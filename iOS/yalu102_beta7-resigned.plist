@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hkt.smartline</string>
+				<string>com.apple.developer.team-identifier</string>
 				<key>bundle-version</key>
-				<string>3.0.0</string>
+				<string>beta7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>On-the-go_t8.2</string>
+				<string>yalu102_beta7</string>
 			</dict>
 		</dict>
 	</array>
