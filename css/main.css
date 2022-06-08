@@ -1,3 +1,10 @@
 .appIcon img {
     border-radius: 16px;
 }
+
+.boxTag {
+    position: absolute;
+    bottom: -5px;
+    right: -8px;
+    transform: rotate(0deg);
+}
