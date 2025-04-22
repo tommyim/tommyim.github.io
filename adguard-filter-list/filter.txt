@@ -77,3 +77,4 @@
 ||ads-api.tiktok.com^
 ||ads.tiktok.com^
 ||advice-ads.s3.amazonaws.com^
+||appmetrica.yandex.ru^
