@@ -79,3 +79,11 @@
 ||advice-ads.s3.amazonaws.com^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
+||static.media.net^
+||media.net^
+||ads-sg.tiktok.com^
+||analytics.pinterest.com^
+||udcm.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahoo.com^
+||metrika.yandex.ru^
