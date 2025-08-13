@@ -85,5 +85,5 @@
 ||analytics.pinterest.com^
 ||udcm.yahoo.com^
 ||gemini.yahoo.com^
-||adtech.yahoo.com^
+||adtech.yahooinc.com^
 ||metrika.yandex.ru^
