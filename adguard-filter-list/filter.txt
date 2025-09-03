@@ -87,4 +87,8 @@
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
 ||metrika.yandex.ru^
-||eventfnt-asia.dsp-api.moloco.com
+||doubleclick.net^
+||googlesyndication.com^
+||applovin.com^
+||inmobi.com^
+||moloco.com^
