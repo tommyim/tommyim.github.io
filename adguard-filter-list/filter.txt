@@ -87,3 +87,4 @@
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
 ||metrika.yandex.ru^
+||eventfnt-asia.dsp-api.moloco.com
