@@ -87,8 +87,3 @@
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
 ||metrika.yandex.ru^
-||doubleclick.net^
-||googlesyndication.com^
-||applovin.com^
-||inmobi.com^
-||moloco.com^
